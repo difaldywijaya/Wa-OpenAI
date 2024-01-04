@@ -15,7 +15,7 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ git clone https://github.com/difaldywijaya/Wa-OpenAI
 $ cd Wa-OpenAI
 $ npm install
 $ node index.js
